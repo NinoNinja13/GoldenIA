@@ -18,10 +18,6 @@ Android Versions Compatible With The Macrodroid App For GoldenIA Use
 | 2   | :x: |
 | 1   | :x:                |
 
-## Reporting a Vulnerability
+## SECURITY
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Android Golden is designed with security in mind. All generated logs are erased instantly, ensuring user privacy. Additionally, the app operates without the need for an internet connection, making it a reliable option for task automation on MacroDroid. 🤖🌟
