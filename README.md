@@ -3,7 +3,7 @@ A Golden IA é uma inteligência artificial versátil e útil que opera sem a ne
 Alerta este Arquivo apenas funciona no aplicativo MACRODROID 5.46.5 ou superior
 MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
-(UPDATE 383)
+(UPDATE 397)
 +MELHORIAS 
 +OTIMIZAÇÕES
 +AVISO DE RELÓGIO WearOs CONECTADO
