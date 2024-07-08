@@ -4,7 +4,7 @@
 
 Android Versions Compatible With The Macrodroid App For GoldenIA Use
 
-| Version | Supported          |
+| Version Android | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :white_check_mark:                |
@@ -20,4 +20,4 @@ Android Versions Compatible With The Macrodroid App For GoldenIA Use
 
 ## SECURITY
 
-Android Golden is designed with security in mind. All generated logs are erased instantly, ensuring user privacy. Additionally, the app operates without the need for an internet connection, making it a reliable option for task automation on MacroDroid. 🤖🌟
+Golden is designed with security in mind. All generated logs are erased instantly, ensuring user privacy. Additionally, the app operates without the need for an internet connection, making it a reliable option for task automation on MacroDroid. 🤖🌟
