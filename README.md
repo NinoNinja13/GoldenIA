@@ -11,6 +11,10 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![Screenshot_2024-12-12-11-21-32-237_com arlosoft macrodroid](https://github.com/user-attachments/assets/349c895f-8dc5-41a8-878a-6f361861812a)
 
++POSICIONAMENTO DA BARRA LATERAL
+
+![Screenshot_2024-12-12-11-20-27-239_com arlosoft macrodroid](https://github.com/user-attachments/assets/acc7b067-7ce5-4b1d-bac6-82e1eb34b257)
+
 
 +CRIE ATÉ 3 PERGUNTAS CUSTOMIZADAS
 +ENTENDE INGLÊS NA NOVA VERSÃO 
