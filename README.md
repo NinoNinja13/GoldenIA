@@ -3,7 +3,7 @@ A Golden IA é uma inteligência artificial versátil e útil que opera sem a ne
 Alerta este Arquivo apenas funciona no aplicativo MACRODROID 5.46.5 ou superior
 MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
-(MEGA UPDATE 450)
+(UPDATE 505)
 
 +CRIE ATÉ 3 PERGUNTAS CUSTOMIZADAS
 +ENTENDE INGLÊS NA NOVA VERSÃO 
@@ -20,6 +20,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 +OPÇÕES EXTRAS NO MODO CHACOALHAR
 +OPÇÕES EXTRAS NO MODO SENSOR DE PROXIMIDADE
 +MODO PARA SURDOS QUE MOSTRA AS RESPOSTAS NA TELA ESCRITA
++CUSTOMIZAÇÃO DA BARRA LATERAL
 
 (CORREÇÕES DE BUGS)
 
