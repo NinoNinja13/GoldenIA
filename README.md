@@ -20,6 +20,9 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![Screenshot_2024-12-13-19-36-26-755_com arlosoft macrodroid](https://github.com/user-attachments/assets/a0e912c2-6763-4f43-a19c-a5c8b16faa36)
 
++TAMANHO DA BARRA LATERAL
+
+![Screenshot_2024-12-13-19-37-24-539_com arlosoft macrodroid](https://github.com/user-attachments/assets/2cd00bd7-57f0-4680-9062-3a6f972098b1)
 
 
 +CRIE ATÉ 3 PERGUNTAS CUSTOMIZADAS
