@@ -3,6 +3,7 @@
 ## Supported Versions
 
 Android Versions Compatible With The Macrodroid App For GoldenIA Use
+![Android_(operating_system)-Logo wine](https://github.com/user-attachments/assets/677297b7-fc95-4d31-9dae-9fe5d4793114)
 
 | Version Android | Supported          |
 | ------- | ------------------ |
