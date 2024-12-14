@@ -1,6 +1,6 @@
 # GoldenIA
 A Golden IA é uma inteligência artificial versátil e útil que opera sem a necessidade de conexão com a internet. Ela foi especialmente desenvolvida para o aplicativo MacroDroid, permitindo automatizar tarefas e simplificar sua rotina. 🤖📱
-Alerta este Arquivo apenas funciona no aplicativo MACRODROID 5.46.5 ou superior
+Alerta este Arquivo apenas funciona no aplicativo MACRODROID 5.46.10 ou superior
 MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![20 Sem Título_20231028182433](https://github.com/user-attachments/assets/d4d19843-60ec-44ad-9dd2-78972a9fc67f)
