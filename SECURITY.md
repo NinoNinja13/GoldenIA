@@ -3,6 +3,7 @@
 ## Supported Versions
 
 Android Versions Compatible With The Macrodroid App For GoldenIA Use
+![android-brand-new-logo-3D-designboom-500](https://github.com/user-attachments/assets/b0518c37-1cab-4ed3-a5ee-ad1fe896645e)
 
 | Version Android | Supported          |
 | ------- | ------------------ |
