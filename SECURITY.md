@@ -90,5 +90,5 @@ Ações legais por violação de direitos autorais ou uso indevido.
 ## Aceitação dos Termos
 Ao utilizar a Golden AI, você declara que leu, entendeu e aceita todos os termos descritos neste documento.
 
-9. Suporte e Contato
+## Suporte e Contato
 Em caso de dúvidas, suporte ou para verificar atualizações, acesse o site oficial ou entre em contato com o desenvolvedor.
