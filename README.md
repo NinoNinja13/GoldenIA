@@ -5,7 +5,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![20 Sem Título_20231028182433](https://github.com/user-attachments/assets/d4d19843-60ec-44ad-9dd2-78972a9fc67f)
 
-(UPDATE 505)
+(UPDATE 505)✨
 
 +COR DA BARRA LATERAL
 
@@ -41,7 +41,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 +OPÇÕES EXTRAS NO MODO SENSOR DE PROXIMIDADE
 +MODO PARA SURDOS QUE MOSTRA AS RESPOSTAS NA TELA ESCRITA
 
-(CORREÇÕES DE BUGS)
+(CORREÇÕES DE BUGS)👾
 
 -PROBLEMA DE GASTO DE BATERIA
 -RESPOSTAS INCORRETAS
