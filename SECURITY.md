@@ -33,62 +33,73 @@ Golden is designed with security in mind. All generated logs are erased instantl
 
 ---------------------------------------
 
-## Termos de Uso - Golden AI
+## Terms of Use - Golden AI
 
-## Introdução
-Bem-vindo à Golden AI, uma inteligência artificial desenvolvida para oferecer suporte e interação personalizada. Ao utilizar este sistema, você concorda com os termos descritos e se compromete a seguir todas as regras de uso.
+## Introduction
 
-## Propriedade e Direitos Autorais
-A Golden AI é de propriedade exclusiva do desenvolvedor original. O código, as funções e o design são protegidos por direitos autorais.
-É estritamente proibido:
+Welcome to Golden AI, an artificial intelligence system designed to offer personalized support and interaction. By using this system, you agree to the terms described and commit to following all usage rules.
 
-Alterar, modificar ou copiar o código-fonte.
+## Ownership and Copyright
 
-Redistribuir qualquer parte do sistema.
+Golden AI is the exclusive property of the original developer. Its code, functions, and design are protected by copyright laws.
+It is strictly prohibited to:
 
-Utilizar a Golden AI para fins ilegais ou prejudiciais.
+Alter, modify, or copy the source code.
 
+Redistribute any part of the system.
 
-## Uso Autorizado
-A Golden AI foi projetada para fins específicos e deve ser utilizada somente conforme sua programação. Qualquer modificação não autorizada pode comprometer a segurança, funcionalidade e proteção de dados do sistema.
-
-## Atualizações Oficiais
-Todas as atualizações e melhorias da Golden AI estarão disponíveis exclusivamente no site oficial ou em canais autorizados pelo desenvolvedor.
-
-É proibido baixar ou instalar atualizações de fontes não oficiais.
-
-Atualizações não autorizadas podem comprometer o sistema e sua segurança.
-
-O desenvolvedor não será responsável por problemas causados por modificações ou atualizações obtidas fora dos canais oficiais.
+Use Golden AI for illegal or harmful purposes.
 
 
-## Segurança e Privacidade
-A Golden AI foi projetada para proteger sua privacidade, com recursos como:
+## Authorized Use
 
-Exclusão automática de dados de conversa após a interação.
+Golden AI is designed for specific purposes and must only be used as intended. Any unauthorized modification may compromise the system's security, functionality, and data protection.
 
-Garantia de que nenhuma informação sensível será salva no dispositivo.
-É proibido desativar ou modificar essas funções de segurança.
+## Official Updates
 
+All updates and improvements to Golden AI will be available exclusively on the official website or authorized channels provided by the developer.
 
-## Responsabilidade do Usuário
-O usuário deve usar a Golden AI de forma ética e segura. É proibido:
+Downloading or installing updates from unofficial sources is prohibited.
 
-Utilizar a inteligência artificial para criar softwares maliciosos ou espionagem.
+Unauthorized updates may compromise the system and its security.
 
-Compartilhar, vender ou distribuir o código ou aparelhos contendo a Golden AI sem autorização.
+The developer is not responsible for issues caused by modifications or updates obtained outside official channels.
 
 
-## Consequências de Uso Indevido
-A violação destes termos pode resultar em:
+## Security and Privacy
 
-Cancelamento da licença de uso.
+Golden AI is designed to protect your privacy, offering features such as:
 
-Ações legais por violação de direitos autorais ou uso indevido.
+Automatic deletion of conversation data after interactions.
+
+Assurance that no sensitive information will be stored on the device.
 
 
-## Aceitação dos Termos
-Ao utilizar a Golden AI, você declara que leu, entendeu e aceita todos os termos descritos neste documento.
+It is prohibited to disable or modify these security features.
 
-## Suporte e Contato
-Em caso de dúvidas, suporte ou para verificar atualizações, acesse o site oficial ou entre em contato com o desenvolvedor.
+## User Responsibility
+
+Users must use Golden AI ethically and safely. It is prohibited to:
+
+Use the AI to create malicious software or for espionage purposes.
+
+Share, sell, or distribute the code or devices containing Golden AI without authorization.
+
+
+## Consequences of Misuse
+
+Violation of these terms may result in:
+
+Revocation of the usage license.
+
+Legal action for copyright infringement or misuse.
+
+
+## Acceptance of Terms
+
+By using Golden AI, you confirm that you have read, understood, and accepted all the terms described in this document.
+
+## Support and Contact
+
+For questions, support, or to check for updates, visit the official website or contact the developer.
+
