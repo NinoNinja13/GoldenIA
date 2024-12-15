@@ -51,3 +51,9 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 # GOLDEN IA PODE RESPONDER ALGUMAS PERGUNTAS COMO:
 
 ![IMG_20241215_090207](https://github.com/user-attachments/assets/06146248-3f13-4ab6-b762-d7f8101e1976)
+
+# Como Baixar Outros Idiomas
+
+Entre no Macrodroid e clique em bloco de ações
+![Screenshot_2024-12-15-08-41-57-333_com arlosoft macrodroid](https://github.com/user-attachments/assets/82fd0bd4-90c5-4bbf-a89a-95f20d2738a2)
+
