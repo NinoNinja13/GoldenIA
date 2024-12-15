@@ -5,7 +5,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![20 Sem Título_20231028182433](https://github.com/user-attachments/assets/d4d19843-60ec-44ad-9dd2-78972a9fc67f)
 
-# (UPDATE 515)✨
+# (UPDATE 517)✨
 
 +BARRA LATERAL
 
