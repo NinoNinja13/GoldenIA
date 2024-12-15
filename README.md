@@ -5,7 +5,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![20 Sem Título_20231028182433](https://github.com/user-attachments/assets/d4d19843-60ec-44ad-9dd2-78972a9fc67f)
 
-# (UPDATE 505)✨
+# (UPDATE 513)✨
 
 +BARRA LATERAL
 
@@ -32,6 +32,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![Screenshot_2024-12-15-10-36-17-030_com miui home](https://github.com/user-attachments/assets/afb36368-a4c0-45f8-b1bd-46788fd5e74a)
 
++CORREÇÃO DE BUGS VISUAIS
 +CORREÇÕES 
 +SEGURANÇA
 +CRIE ATÉ 3 PERGUNTAS CUSTOMIZADAS
