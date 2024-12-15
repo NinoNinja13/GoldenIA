@@ -198,3 +198,5 @@ Clique nas opções disponíveis
 Após clicar va na opção escrita:OK
 
 ![Screenshot_2024-12-15-11-10-41-072_com arlosoft macrodroid](https://github.com/user-attachments/assets/8660b085-6daf-434f-aa9b-a2b2e6b7697f)
+
+AVISO PARA O INGLÊS FUNCIONAR É IMPORTANTE QUE A PORTUGUÊS PT_BR SEJA ABAIXADA , POIS OCCORE UMA TRADUÇÃO PARA OBTER AS RESPOSTAS EM INGLES 
