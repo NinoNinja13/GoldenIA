@@ -200,3 +200,9 @@ Após clicar va na opção escrita:OK
 ![Screenshot_2024-12-15-11-10-41-072_com arlosoft macrodroid](https://github.com/user-attachments/assets/8660b085-6daf-434f-aa9b-a2b2e6b7697f)
 
 AVISO PARA O INGLÊS FUNCIONAR É IMPORTANTE QUE A PORTUGUÊS PT_BR E INGLES SEJA ABAIXADAS , POIS OCCORE UMA TRADUÇÃO PARA OBTER AS RESPOSTAS EM INGLES 
+
+# Recomendado 
+Recomendado destivar backup automático, para que não tenha travamentos e consumo de memória com o tempo
+![Screenshot_2024-12-15-11-50-10-407_com arlosoft macrodroid](https://github.com/user-attachments/assets/48e8a959-cdb8-430f-bde4-d1b1abcec6ba)
+
+![IMG_20241215_115119](https://github.com/user-attachments/assets/52f30ab0-0bab-4180-85be-0862f7819cb4)
