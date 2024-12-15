@@ -7,6 +7,10 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 # (UPDATE 505)✨
 
++BARRA LATERAL
+
+![IMG_20241215_120559](https://github.com/user-attachments/assets/7a506e7b-a61b-426a-8123-744e1cc49ecd)
+
 +COR DA BARRA LATERAL
 
 ![Screenshot_2024-12-12-11-21-32-237_com arlosoft macrodroid](https://github.com/user-attachments/assets/349c895f-8dc5-41a8-878a-6f361861812a)
