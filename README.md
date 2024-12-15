@@ -190,4 +190,7 @@ Entre no Macrodroid e clique em bloco de ações
 Clique em Download Languages e abaixe os idiomas disponíveis
 
 ![Screenshot_2024-12-15-08-42-40-434_com arlosoft macrodroid](https://github.com/user-attachments/assets/f553d664-6f7e-4af1-aa3b-e7726225a2d5)
-Importante Baixar Todos Idiomas Para Funcionar Corretamente
+
+Clique nas opções disponíveis
+
+![Screenshot_2024-12-15-11-09-57-731_com arlosoft macrodroid](https://github.com/user-attachments/assets/36440ebb-890a-4487-b936-195cfd734fcb)
