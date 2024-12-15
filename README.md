@@ -24,6 +24,12 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![Screenshot_2024-12-13-19-37-24-539_com arlosoft macrodroid](https://github.com/user-attachments/assets/2cd00bd7-57f0-4680-9062-3a6f972098b1)
 
++NOVA OPÇÃO
+
+![Screenshot_2024-12-15-10-36-17-030_com miui home](https://github.com/user-attachments/assets/afb36368-a4c0-45f8-b1bd-46788fd5e74a)
+
++CORREÇÕES 
++SEGURANÇA
 +CRIE ATÉ 3 PERGUNTAS CUSTOMIZADAS
 +ENTENDE INGLÊS NA NOVA VERSÃO 
 +MELHOR COMPREENSÃO NAS PPERGUNTAS
@@ -42,6 +48,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 # (CORREÇÕES DE BUGS)👾
 
+-CONSUMO ALTO DE BATERIA
 -RESPOSTAS INCORRETAS
 -LENTIDÃO NAS RESPOSTAS 
 -INSTABILIDADE AO CHACOALHAR 
