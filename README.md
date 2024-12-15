@@ -52,4 +52,4 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 # GOLDEN IA PODE RESPONDER ALGUMAS PERGUNTAS COMO:
 
-![IMG_20241215_085825](https://github.com/user-attachments/assets/17866f25-dec4-47ab-9244-ff4ba83ab8d2)
+![IMG_20241215_090207](https://github.com/user-attachments/assets/06146248-3f13-4ab6-b762-d7f8101e1976)
