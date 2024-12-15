@@ -194,3 +194,7 @@ Clique em Download Languages e abaixe os idiomas disponíveis
 Clique nas opções disponíveis
 
 ![Screenshot_2024-12-15-11-09-57-731_com arlosoft macrodroid](https://github.com/user-attachments/assets/36440ebb-890a-4487-b936-195cfd734fcb)
+
+Após clicar va na opção escrita:OK
+
+![Screenshot_2024-12-15-11-10-41-072_com arlosoft macrodroid](https://github.com/user-attachments/assets/8660b085-6daf-434f-aa9b-a2b2e6b7697f)
