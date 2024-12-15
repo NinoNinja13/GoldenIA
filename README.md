@@ -180,7 +180,7 @@ Entre no Macrodroid e clique em bloco de ações
 
 ![Screenshot_2024-12-15-08-41-57-333_com arlosoft macrodroid](https://github.com/user-attachments/assets/82fd0bd4-90c5-4bbf-a89a-95f20d2738a2)
 
-Clique em Download Languages e escolha a linguagem desejada se disponível
+Clique em Download Languages e abaixe os idiomas disponíveis
 
 ![Screenshot_2024-12-15-08-42-40-434_com arlosoft macrodroid](https://github.com/user-attachments/assets/f553d664-6f7e-4af1-aa3b-e7726225a2d5)
 
