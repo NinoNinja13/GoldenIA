@@ -1,5 +1,3 @@
-# Security Policy
-
 ## Supported Versions
 
 Android Versions Compatible With The Macrodroid App For GoldenIA Use
