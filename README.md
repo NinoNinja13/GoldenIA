@@ -7,7 +7,7 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 # (UPDATE 521)✨
 
-+NOVOS IDIOMAS(AVISO EM TESTE)
++NOVOS IDIOMAS(⚠️ AVISO EM TESTE⚠️)
 
 ![Screenshot_2024-12-16-13-58-44-929_com arlosoft macrodroid](https://github.com/user-attachments/assets/b5d6d516-10aa-4cf5-bef9-6a321255bfd7)
 
