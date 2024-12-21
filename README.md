@@ -228,3 +228,7 @@ https://youtube.com/shorts/2wDJ0NA4gi0?si=Nb7OsQmqY5abIzRN
 v2
 
 https://youtube.com/shorts/Ceos4nun4gA?si=Abu8EF7gQq3RB92Q
+
+V3
+
+https://youtube.com/shorts/AfpXfq43vsw?si=dzoocGqiyYticK00
