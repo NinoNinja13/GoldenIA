@@ -40,6 +40,10 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 ![Screenshot_2024-12-15-10-36-17-030_com miui home](https://github.com/user-attachments/assets/afb36368-a4c0-45f8-b1bd-46788fd5e74a)
 
++MODO ADMINISTRADOR MAIS FACIL DE ATIVAR
+
+![Screenshot_2024-12-22-10-36-55-402_com arlosoft macrodroid](https://github.com/user-attachments/assets/8e8e8da3-ecf1-4df6-8f86-3983c7a6a247)
+
 +CORREÇÃO DE BUGS VISUAIS
 +CORREÇÕES 
 +SEGURANÇA
