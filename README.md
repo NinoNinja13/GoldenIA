@@ -7,10 +7,6 @@ MACRODROID está disponível apenas para ANDROID +5.0 ou superior
 
 # (UPDATE 530)✨
 
-+LOGS DELETADOS AUTOMATICAMENTE
-
-![Animation - 1735698518693](https://github.com/user-attachments/assets/6eb161d7-9ee6-4563-830f-41df4ede8e27)
-
 +CRIE SUAS PRÓPRIAS PERGUNTAS E RESPOSTAS
 
 ![Screenshot_2024-12-22-10-20-02-721_com arlosoft macrodroid](https://github.com/user-attachments/assets/cf8dfbe1-c379-4673-a20a-62ec70941a4e)
