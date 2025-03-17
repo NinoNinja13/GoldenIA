@@ -6,15 +6,15 @@ Android Versions Compatible With The Macrodroid App For GoldenIA Use
 | Version Android | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
-| 5.0.x   | :white_check_mark:                |
-| 4.0.x   | :x: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :x:                |
 | < 4.0   | :x:                |
 
 | Memory Ram | Recommended          |
 | ------- | ------------------ |
 | 6   | :white_check_mark: |
-| 4   | :white_check_mark:                |
-| 2   | :x: |
+| 4   | :white_check_mark: |
+| 2   | :white_check_mark: |
 | 1   | :x:                |
 
 | Tested Brands | Tested          |
