@@ -19,6 +19,7 @@ Android Versions Compatible With The Macrodroid App For GoldenIA Use
 
 | Tested Brands | Tested          |
 | ------- | ------------------ |
+| All Android   | :white_check_mark: |
 | Samsung Galaxy   | :white_check_mark: |
 | Xiaomi  | :white_check_mark:                |
 | Motorola   | :white_check_mark: |
