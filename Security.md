@@ -12,7 +12,7 @@ Android Versions Compatible With The Macrodroid App For GoldenIA Use
 
 | Memory Ram | Recommended          |
 | ------- | ------------------ |
-| 6   | :white_check_mark: |
+| > 6   | :white_check_mark: |
 | 4   | :white_check_mark: |
 | 2   | :white_check_mark: |
 | 1   | :x:                |
